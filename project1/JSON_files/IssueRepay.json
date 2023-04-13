@@ -1,0 +1,38 @@
+[
+  {
+    "date": "01.02",
+    "loanId": 1,
+    "amount": 1000,
+    "in_out": -1
+  },
+  {
+    "date": "01.02",
+    "loanId": 2,
+    "amount": 20000,
+    "in_out": -1
+  },
+  {
+    "date": "01.02",
+    "loanId": 1,
+    "amount": 5000,
+    "in_out": 1
+  },
+  {
+    "date": "01.02",
+    "loanId": 3,
+    "amount": 15000,
+    "in_out": -1
+  },
+  {
+    "date": "01.03",
+    "loanId": 2,
+    "amount": 10000,
+    "in_out": 1
+  },
+  {
+    "date": "01.05",
+    "loanId": 3,
+    "amount": 5000,
+    "in_out": 1
+  }
+]

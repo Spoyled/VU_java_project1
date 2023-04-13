@@ -1,0 +1,17 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Aaa",
+    "interestRate": 5
+  },
+  "2": {
+    "id": 2,
+    "name": "Bbb",
+    "interestRate": 15
+  },
+  "3": {
+    "id": 3,
+    "name": "Ccc",
+    "interestRate": 10
+  }
+}
