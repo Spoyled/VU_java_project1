@@ -26,7 +26,7 @@ You can modify the source code to implement a different sorting algorithm or to 
 
 ## License
 
-This project is released under the [MIT License](LICENSE).
+This project is released under the MIT License.
 
 ## Contributing
 
