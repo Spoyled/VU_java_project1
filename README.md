@@ -1,5 +1,3 @@
-"# VU_java_project1" 
-
 # Sorting Program
 
 This is a Java program that can sort a list of objects of any type using a QuickSort algorithm. The program demonstrates the use of a custom sorting algorithm and provides an example of how to work with generic data types in Java.
